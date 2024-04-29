@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+bemenu-run --fn "Adobe-Source-Code-Pro-Mono Medium 16" --tf "#FFFFFFFF" --tb "#111111FF" --nf "#FFFFFFFF" --hf "#FFFFFFFF" --af "#FFFFFFFF" --ff "#FFFFFFFF" --hb "#1167b1FF"

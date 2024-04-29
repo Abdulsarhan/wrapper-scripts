@@ -1,0 +1,3 @@
+#!/bin/bash
+
+flatpak run org.vinegarhq.Vinegar -config $HOME/.config/vinegar/config.toml player run
