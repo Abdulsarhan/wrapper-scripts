@@ -1,7 +1,7 @@
 # wrapper-scripts
 This is a repo of wrapper scripts that I have made to get arround the jank of certain command-line based apps or flatpaks.
 
-Basically, you can launch an app just by typing the common name of a flatpak into your application launcgher as opposed to typing in the god-awful name that they have by default.
+Basically, you can launch an app just by typing the common name of a flatpak into your application launcher as opposed to typing in the god-awful name that they have by default.
 
 
 For example, in order to launch the flatpak steam, you would usually need to type the following into your application launcher or a terminal:
